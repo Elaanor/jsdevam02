@@ -65,5 +65,5 @@ const arr = [1,2,3,4,5,6,7,8]
 
 
 let the_evens = arr.filter(number => number % 2 == 0)
-document.write('even numbers: ' + the_evens)
+document.write('even numbers : ' + the_evens)
 
